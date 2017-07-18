@@ -1,0 +1,27 @@
+{
+  "name": "manga-downloader",
+  "version": "1.0.0",
+  "description": "tool to download manga",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hollomyfoolish/manga-downloader.git"
+  },
+  "keywords": [
+    "manga"
+  ],
+  "author": "Allen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hollomyfoolish/manga-downloader/issues"
+  },
+  "homepage": "https://github.com/hollomyfoolish/manga-downloader#readme",
+  "dependencies": {
+    "extend": "^3.0.1",
+    "jsdom": "^11.1.0"
+  }
+}
